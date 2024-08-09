@@ -6,6 +6,6 @@ About Project : Users can enter a category and choose between difficulty levels.
 
 Features:
 
-Difficulty Level - Different difficulty levels can be chosen by which number of attempts changes.
+=> Difficulty Level - Different difficulty levels can be chosen by which number of attempts changes.
 
-Hint - Get hints to help guess the word.
+=> Hint - Get hints to help guess the word.
