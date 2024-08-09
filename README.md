@@ -1,5 +1,5 @@
 # Guessing_game
-Welcome to the Guess Game! This is a word guessing game, featuring different difficulty levels, hints, and a life system.
+Welcome to the Guess Game! This is a word guessing game, featuring different difficulty levels, hints and with life system.
 The game revolves around the challenge of guessing a hidden word. The player’s objective is to figure out the word within a limited number of attempts. They win the game if they successfully guess all the letters in the word before running out of turns.
 
 About Project: 
